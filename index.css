@@ -1,0 +1,35 @@
+body {
+    box-sizing: border-box;
+    font-size: 62.3%;
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(160, 160, 241), rgb(158, 158, 180));
+}
+
+.title{
+    font-size: 1.4 rem;
+    border-bottom: 1px black solid;
+    text-align: center;
+    box-shadow: 0 3px 5.5px black;
+    margin: 1rem;
+}
+
+.pad-body{
+    height: 80vh;
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.148);
+    box-shadow: 2px 2px 4px black;
+   margin: 0 auto;
+}
+
+.pad-header{
+    height: 10%;
+}
+
+.pad-pad{
+    height: 80%;
+    background-color: white;
+}
+
+.pad-footer{
+    height: 10%;
+}
